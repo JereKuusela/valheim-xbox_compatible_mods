@@ -1,4 +1,4 @@
-# valheim-xbox_compatible_mods
+# Xbox compatible mods
 
 Xbox players can't install mods which prevents using most mods on servers.
 
