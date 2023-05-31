@@ -8,8 +8,8 @@ These mods are not required on the clients, and can be used even with unmodded P
 - [Cron_Job](https://valheim.thunderstore.io/package/JereKuusela/Cron_Job/): Adds support for running console commands on a schedule. For example for a weekly world refresh.
 - [Expand World](https://valheim.thunderstore.io/package/JereKuusela/Expand_World/): Allows editing some parts of the world generation (dungeons, events, locations and vegetations). Requires manual configuration. See the documentation for more info.
 - [Rcon_Commands](https://valheim.thunderstore.io/package/JereKuusela/Rcon_Commands/): Adds support for running console commands remotely with RCON.
-- [Server_Devcommands](https://valheim.thunderstore.io/package/JereKuusela/Server_devcommands/): Adds new console commands and extends features when also installed on the client.
-- [Uograde World](https://valheim.thunderstore.io/package/JereKuusela/Upgrade_World/): Adds console commands for large scale administration tasks like resetting dungeons or other areas.
+- [Server Devcommands](https://valheim.thunderstore.io/package/JereKuusela/Server_devcommands/): Adds new console commands and extends features when also installed on the client.
+- [Upgrade World](https://valheim.thunderstore.io/package/JereKuusela/Upgrade_World/): Adds console commands for large scale administration tasks like resetting dungeons or other areas.
 
 ## Client side mods
 These mods can be used by PC clients but are not required to be used by everyone.
@@ -29,4 +29,3 @@ These mods are meant to be used by server administrators.
 - [Infinity Hammer](https://valheim.thunderstore.io/package/JereKuusela/Infinity_Hammer/): Greatly extends the building capabilities.
 - [Server_Devcommands](https://valheim.thunderstore.io/package/JereKuusela/Server_devcommands/): Adds new console commands and enables cheats for admins.
 - [World Edit Commands](https://valheim.thunderstore.io/package/JereKuusela/World_Edit_Commands/): Adds console commands for world editing.
-- 
