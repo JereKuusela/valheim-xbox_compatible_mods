@@ -14,11 +14,17 @@ These mods are not required on the clients, and can be used even with unmodded P
 ## Client side mods
 These mods can be used by PC clients but are not required to be used by everyone.
 
+- [Deluxe Particles](https://valheim.thunderstore.io/package/VentureValheim/Deluxe_Particles): Enlarges dropped item particle effect (for installed clients).
 - [Dream Texts](https://valheim.thunderstore.io/package/JereKuusela/Dream_Texts/): Allows changing the dream texts. Can be installed on the server to control dreams of modded clients.
 - [Item Stand All Items](https://valheim.thunderstore.io/package/JereKuusela/Item_Stand_All_Items/): Allows placing few more items to the item stands (all items aren't compatible with unmodded clients).
+- [Need For Speed](https://valheim.thunderstore.io/package/VentureValheim/Need_For_Speed/): Run faster on paths (for installed clients, can sync configuration when on server).
+- [No Puke](https://valheim.thunderstore.io/package/VentureValheim/No_Puke): Removes puking animations (for installed clients).
+- [No Seasonal Restrictions](https://valheim.thunderstore.io/package/VentureValheim/No_Seasonal_Restrictions): Lets you place seasonal items (Changes are visible to unmodded clients).
 - [Ore Support](https://valheim.thunderstore.io/package/JereKuusela/Ore_Support/): Visualizes the support system of stone and mineral deposits.
+- [Pathside Assistance](https://valheim.thunderstore.io/package/VentureValheim/Pathside_Assistance): More path/cultivator options without terrain flattening (Changes are visible to unmodded clients).
 - [Ruler](https://valheim.thunderstore.io/package/JereKuusela/Ruler/): Allows measuring distances.
 - [Vanity](https://valheim.thunderstore.io/package/JereKuusela/Vanity/): Allows changing the player visual style. Changes are visible to unmodded clients. Can be installed on the server to control the style of modded clients.
+- [Venture Logout Tweaks](https://valheim.thunderstore.io/package/VentureValheim/Venture_Logout_Tweaks/): Saves your status effects and reapplies on next login (for installed clients).
 - [Wearable Trophies](https://valheim.thunderstore.io/package/JereKuusela/Wearable_Trophies/): Allows wearing trophies. Changes are visible to unmodded clients.
 
 ## Admin mods
