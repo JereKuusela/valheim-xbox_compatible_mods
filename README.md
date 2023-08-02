@@ -7,6 +7,7 @@ These mods are not required on the clients, and can be used even with unmodded P
 
 - [Cron Job](https://valheim.thunderstore.io/package/JereKuusela/Cron_Job/): Adds support for running console commands on a schedule. For example for a weekly world refresh.
 - [Expand World](https://valheim.thunderstore.io/package/JereKuusela/Expand_World/): Allows editing some parts of the world generation (dungeons, events, locations and vegetations). Requires manual configuration. See the documentation for more info.
+- [Let Me Sleep](https://valheim.thunderstore.io/package/Blockheim/LetMeSleep/): Allows changing how many players are required to sleep.
 - [Rcon Commands](https://valheim.thunderstore.io/package/JereKuusela/Rcon_Commands/): Adds support for running console commands remotely with RCON.
 - [Server Devcommands](https://valheim.thunderstore.io/package/JereKuusela/Server_devcommands/): Adds new console commands and extends features when also installed on the client.
 - [Upgrade World](https://valheim.thunderstore.io/package/JereKuusela/Upgrade_World/): Adds console commands for large scale administration tasks like resetting dungeons or other areas.
