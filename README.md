@@ -6,10 +6,16 @@ Xbox players can't install mods which prevents using most mods on servers.
 These mods are not required on the clients, and can be used even with unmodded PC clients.
 
 - [Cron Job](https://valheim.thunderstore.io/package/JereKuusela/Cron_Job/): Adds support for running console commands on a schedule. For example for a weekly world refresh.
+- [Discord Connector](https://valheim.thunderstore.io/package/nwesterhausen/DiscordConnector/): Allows messaging between the server and Discord.
+- [Discord Server Control Bot](https://valheim.thunderstore.io/package/KGvalheim/Discord_Server_Control_Bot/): Allows controlling the server from Discord.
 - [Expand World](https://valheim.thunderstore.io/package/JereKuusela/Expand_World/): Allows editing some parts of the world generation (dungeons, events, locations and vegetations). Requires manual configuration. See the documentation for more info.
 - [Let Me Sleep](https://valheim.thunderstore.io/package/Blockheim/LetMeSleep/): Allows changing how many players are required to sleep.
+- [Max Player Count](https://valheim.thunderstore.io/package/Azumatt/MaxPlayerCount/): Allows changing the amount of maximum players.
 - [Rcon Commands](https://valheim.thunderstore.io/package/JereKuusela/Rcon_Commands/): Adds support for running console commands remotely with RCON.
+- [Server Dice Roll](https://valheim.thunderstore.io/package/bbar/ServerDiceRoll/); Adds dice roll command.
 - [Server Devcommands](https://valheim.thunderstore.io/package/JereKuusela/Server_devcommands/): Adds new console commands and extends features when also installed on the client.
+- [Server Perma Death](https://valheim.thunderstore.io/package/1010101110/serverpermadeath/): Tracks player deaths and automatically bans dead characters.
+- [Server Restart](https://valheim.thunderstore.io/package/Tristan/ServerRestart/): Allows setting schedule for server restarts.
 - [Upgrade World](https://valheim.thunderstore.io/package/JereKuusela/Upgrade_World/): Adds console commands for large scale administration tasks like resetting dungeons or other areas.
 
 ## Client side mods
