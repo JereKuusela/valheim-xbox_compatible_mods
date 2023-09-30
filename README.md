@@ -8,7 +8,9 @@ These mods are not required on the clients, and can be used even with unmodded P
 - [Cron Job](https://valheim.thunderstore.io/package/JereKuusela/Cron_Job/): Adds support for running console commands on a schedule. For example for a weekly world refresh.
 - [Discord Connector](https://valheim.thunderstore.io/package/nwesterhausen/DiscordConnector/): Allows messaging between the server and Discord.
 - [Discord Server Control Bot](https://valheim.thunderstore.io/package/KGvalheim/Discord_Server_Control_Bot/): Allows controlling the server from Discord.
-- [Expand World](https://valheim.thunderstore.io/package/JereKuusela/Expand_World/): Allows editing some parts of the world generation (dungeons, events, locations and vegetations). Requires manual configuration. See the documentation for more info.
+- [Expand World Data](https://valheim.thunderstore.io/package/JereKuusela/Expand_World_Data/): Allows editing some parts of the world generation (dungeons, locations and vegetations). Requires manual configuration. See the documentation for more info.
+- [Expand World Events](https://valheim.thunderstore.io/package/JereKuusela/Expand_World_Events/): Allows editing event requirements and enable multiple events at the same time. Requires manual configuration. See the documentation for more info.
+- [Expand World Prefabs](https://valheim.thunderstore.io/package/JereKuusela/Expand_World_Prefabs/): Allows replacing objects when they spawn. Requires manual configuration. See the documentation for more info.
 - [Let Me Sleep](https://valheim.thunderstore.io/package/Blockheim/LetMeSleep/): Allows changing how many players are required to sleep.
 - [Max Player Count](https://valheim.thunderstore.io/package/Azumatt/MaxPlayerCount/): Allows changing the amount of maximum players.
 - [Rcon Commands](https://valheim.thunderstore.io/package/JereKuusela/Rcon_Commands/): Adds support for running console commands remotely with RCON.
